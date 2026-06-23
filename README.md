@@ -722,8 +722,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 | **Team Lead** | Hardware & Firmware | System Design | Sensor Integration |
 | [GitHub Profile](https://github.com/YOUR_USERNAME) | [Project Page](https://www.electronicwings.com/users/AvishkarJaiswal/projects/4540/multi-operational-defence-rover) | Engineering | Integration |
 
-### 🎓 Faculty Mentor
-* **Dr. Saurav Gupta** — Assistant Professor, VIT Chennai
 
 ---
 
