@@ -1,0 +1,16 @@
+# Terrain Scout III — Python Dependencies
+# =========================================
+# Install: pip install -r requirements.txt
+
+# ─── Computer Vision ─────────────────────────
+opencv-python>=4.8.0
+numpy>=1.24.0
+
+# ─── Machine Learning ────────────────────────
+tensorflow>=2.13.0
+
+# ─── Serial Communication ────────────────────
+pyserial>=3.5
+
+# ─── Utilities ────────────────────────────────
+Pillow>=10.0.0

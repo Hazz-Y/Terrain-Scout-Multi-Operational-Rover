@@ -1,0 +1,46 @@
+# Terrain Scout III — Git Ignore
+# ================================
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+env/
+.venv/
+
+# Arduino build artifacts
+*.elf
+*.hex
+*.bin
+*.eep
+*.lss
+*.map
+*.sym
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+
+# Reference files (not for distribution)
+*.pdf
+*.pptx
+*.ppt
+
+# Environment
+.env
+*.log
