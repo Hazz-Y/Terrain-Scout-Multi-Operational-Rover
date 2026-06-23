@@ -18,7 +18,7 @@
  *    - Sensing coil (connected to A0/A1)
  *    - Indicator LED (pin 12)
  *
- *  Author: Avishkar Jaiswal
+ *  Author: Harsh Yadav
  *  Project: Terrain Scout III — Multi-Operational Defence Rover
  * ============================================================================
  */

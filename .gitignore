@@ -44,3 +44,8 @@ desktop.ini
 # Environment
 .env
 *.log
+
+# Extracted reference assets
+docs/images/pdf_extracted/
+docs/images/ppt1_extracted/
+docs/images/ppt2_extracted/

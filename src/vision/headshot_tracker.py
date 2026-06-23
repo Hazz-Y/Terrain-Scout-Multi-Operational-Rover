@@ -13,7 +13,7 @@ Hardware Requirements:
     - Arduino UNO/Nano (for servo control via serial)
     - Raspberry Pi 4 (running this script)
 
-Author: Avishkar Jaiswal
+Author: Harsh Yadav
 Project: Terrain Scout III — Multi-Operational Defence Rover
 """
 

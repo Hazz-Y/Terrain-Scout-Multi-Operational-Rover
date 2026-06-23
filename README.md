@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="docs/images/ts3_banner.png" alt="Terrain Scout III Banner" width="380"/>
+<img src="docs/images/ts3_banner.jpg" alt="Terrain Scout III Banner" width="500"/>
 
 <br><br>
 
@@ -71,7 +71,7 @@
 </td>
 <td width="50%">
 
-<img src="docs/images/operational_modes.png" alt="Terrain Scout III Operational Modes" width="100%"/>
+<img src="docs/images/cad_model_1.jpg" alt="Terrain Scout III CAD model" width="100%"/>
 
 </td>
 </tr>
@@ -83,7 +83,7 @@
 
 <div align="center">
 
-<img src="docs/images/why_this_matters.png" alt="Problem vs Solution" width="85%"/>
+<img src="docs/images/IMG_20240502_162454379_HDR_AE.jpg" alt="Terrain Scout III Action Shot" width="85%"/>
 
 </div>
 
@@ -155,32 +155,34 @@ In modern defence and security operations, human personnel face life-threatening
 
 <div align="center">
 
-### 🤖 The Rover
+### 🤖 The Real Prototype (Physical Assembly)
+*Actual hardware built for the project, featuring rocker-bogie chassis, sensors, and dual-axis camera turret.*
 
-<table>
-<tr>
-<td align="center">
-<img src="docs/images/ts3_banner.png" alt="Terrain Scout III — Full Assembly" width="100%"/>
-<br><em>Terrain Scout III — fully assembled multi-operational rover</em>
-</td>
-</tr>
-</table>
+| | |
+|:---:|:---:|
+| <img src="docs/images/ts3_banner.jpg" alt="Terrain Scout III Cover" width="100%"/> <br> **Fully Assembled Rover (Top-Down View)** | <img src="docs/images/IMG_20240502_162629646_HDR_AE.jpg" alt="Front View" width="100%"/> <br> **Front Chassis & Radar Sweep Servo** |
+| <img src="docs/images/IMG_20240502_162454379_HDR_AE.jpg" alt="Action View" width="100%"/> <br> **Ground Evasion Efficacy Test** | <img src="docs/images/IMG_20240502_162722705_HDR_AE.jpg" alt="Side View" width="100%"/> <br> **Rocker-Bogie 6-Motor Drive Train** |
+| <img src="docs/images/IMG_20240502_162736503_HDR_AE.jpg" alt="Turret Close-up" width="100%"/> <br> **Laser Turret & Firing Mechanism Assembly** | <img src="docs/images/IMG_20240502_162635079_HDR_AE.jpg" alt="Rear View" width="100%"/> <br> **Power Distribution & Solar Panel Mount** |
 
 <br>
 
-### 🏗️ System Architecture
+### 📐 Computer-Aided Design (CAD) Models
+*Precise 3D CAD modeling developed during the design and simulation phase.*
 
-<img src="docs/images/system_architecture.png" alt="TS-III System Architecture" width="700"/>
-
-*High-level system architecture of the Terrain Scout III defence platform*
+| | |
+|:---:|:---:|
+| <img src="docs/images/cad_model_1.jpg" alt="CAD ISO view" width="100%"/> <br> **Isometric View of CAD Model** | <img src="docs/images/cad_model_2.jpg" alt="CAD Front view" width="100%"/> <br> **Front Elevation of Chassis** |
+| <img src="docs/images/cad_model_3.jpg" alt="CAD Top view" width="100%"/> <br> **Top-Down Chassis Geometry** | <img src="docs/images/cad_model_4.jpg" alt="CAD Detail view" width="100%"/> <br> **Rocker-Bogie Suspension CAD Detail** |
 
 <br>
 
-### 🎯 Operational Capabilities
+### ⚙️ Technical Diagrams & Flowcharts
+*Block diagrams and process flowcharts extracted from technical documentation.*
 
-<img src="docs/images/operational_modes.png" alt="Five Operational Modes" width="700"/>
-
-*Five integrated operational modes for comprehensive defence coverage*
+| | |
+|:---:|:---:|
+| <img src="docs/images/locomotive_block_diagram.jpg" alt="Locomotive Block" width="100%"/> <br> **Locomotion & Obstacle Avoidance Block Diagram** | <img src="docs/images/quickfire_block_diagram.jpg" alt="QuickFire Block" width="100%"/> <br> **QuickFire Action System Diagram** |
+| <img src="docs/images/quickfire_flowchart.jpg" alt="QuickFire Flow" width="100%"/> <br> **QuickFire Target Engagement Logic** | <img src="docs/images/object_id_block_diagram.jpg" alt="Object ID Block" width="100%"/> <br> **ESP32-CAM Object Recognition Logic** |
 
 </div>
 
@@ -190,9 +192,9 @@ In modern defence and security operations, human personnel face life-threatening
 
 <div align="center">
 
-<img src="docs/images/system_architecture.png" alt="Terrain Scout III System Architecture" width="700"/>
+<img src="docs/images/pdf_system_architecture.jpg" alt="Terrain Scout III System Architecture" width="750"/>
 
-*Multi-controller architecture with distributed processing across Raspberry Pi and Arduino platforms*
+*Distributed computing block diagram showing components and hazard detection modules*
 
 </div>
 
@@ -699,17 +701,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
-## 👨‍💻 Author
+## 👥 Authors & Team Credits
 
-<table>
-<tr>
-<td align="center">
-<strong>Avishkar Jaiswal</strong>
-<br>
-<a href="https://www.electronicwings.com/users/AvishkarJaiswal/projects/4540/multi-operational-defence-rover">Project Page</a>
-</td>
-</tr>
-</table>
+### 🛡️ The Development Team (VIT Chennai)
+| 👨‍✈️ **Harsh Yadav** | 🛠️ **Avishkar Jaiswal** | ⚙️ **Thakur Akshaykumar Raj** | 📡 **Aqeeb Akeel** |
+| :---: | :---: | :---: | :---: |
+| **Team Lead** | Hardware & Firmware | System Design | Sensor Integration |
+| [GitHub Profile](https://github.com/YOUR_USERNAME) | [Project Page](https://www.electronicwings.com/users/AvishkarJaiswal/projects/4540/multi-operational-defence-rover) | Engineering | Integration |
+
+### 🎓 Faculty Mentor
+* **Dr. Saurav Gupta** — Assistant Professor, VIT Chennai
 
 ---
 
@@ -729,6 +730,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <br>
 
-<img src="docs/images/concept_development.png" alt="Terrain Scout III — Concept to Deployment" width="550"/>
+<img src="docs/images/cad_model_1.jpg" alt="Terrain Scout III — CAD Model View" width="550"/>
 
 </div>

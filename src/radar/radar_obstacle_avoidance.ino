@@ -20,7 +20,7 @@
  *    - Servo Motor MG995 (evasion actuator — pin 10)
  *    - HC-SR04 Ultrasonic Sensor (Trig: A0, Echo: A1)
  *
- *  Author: Avishkar Jaiswal
+ *  Author: Harsh Yadav
  *  Project: Terrain Scout III — Multi-Operational Defence Rover
  * ============================================================================
  */
