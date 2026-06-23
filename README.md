@@ -722,10 +722,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-**⭐ If you found Terrain Scout III useful, please consider giving it a star!**
-
-<br>
-
 *Built with 🎖️ for defence innovation and autonomous systems*
 
 <br>
