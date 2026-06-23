@@ -35,6 +35,7 @@
 - [Key Features](#-key-features)
 - [Operational Modes](#-operational-modes)
 - [Project Gallery](#-project-gallery)
+- [Technical Poster](#-technical-poster)
 - [System Architecture](#%EF%B8%8F-system-architecture)
 - [How It Works](#-how-it-works)
 - [Hardware Components](#-hardware-components)
@@ -183,6 +184,18 @@ In modern defence and security operations, human personnel face life-threatening
 |:---:|:---:|
 | <img src="docs/images/locomotive_block_diagram.jpg" alt="Locomotive Block" width="100%"/> <br> **Locomotion & Obstacle Avoidance Block Diagram** | <img src="docs/images/quickfire_block_diagram.jpg" alt="QuickFire Block" width="100%"/> <br> **QuickFire Action System Diagram** |
 | <img src="docs/images/quickfire_flowchart.jpg" alt="QuickFire Flow" width="100%"/> <br> **QuickFire Target Engagement Logic** | <img src="docs/images/object_id_block_diagram.jpg" alt="Object ID Block" width="100%"/> <br> **ESP32-CAM Object Recognition Logic** |
+
+</div>
+
+---
+
+## 📋 Technical Poster
+
+Here is the comprehensive project poster outlining the problem statement, objectives, key specifications, performance highlights, and system architecture for the Adaptive Modular System:
+
+<div align="center">
+
+<img src="docs/images/project_poster.png" alt="Terrain Scout Technical Poster" width="90%"/>
 
 </div>
 
